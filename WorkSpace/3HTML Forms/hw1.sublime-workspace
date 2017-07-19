@@ -1,0 +1,334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ru",
+				"run-in"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"im",
+				"animation-fill-mode"
+			],
+			[
+				"t",
+				"animation-timing-function"
+			],
+			[
+				"tex",
+				"text-align-last"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"T",
+				"TD\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"OP",
+				"OPTION\tTag"
+			],
+			[
+				"SE",
+				"SELECT\tTag"
+			],
+			[
+				"C",
+				"checkbox"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"R",
+				"required\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"Oth",
+				"other"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pinkal/Google Drive/WorkSpace/Div/box.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/Div/style/box.css",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/Div/style/ex1.css",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/Div/div.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/Div/style/dic.css",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/Div/ex1.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/CSS/style/hw1.css",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/CSS/hw1.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/CSS/firstStyle.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/CSS/Practice1.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/CSS/style/practice1.css",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/CSS/style/prg.css",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/3HTML Forms/Froms.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/3HTML Forms/hw1.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/3HTML Forms/Table.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/3HTML Forms/rowspan&colspan.html",
+		"/C/Users/Pinkal/Google Drive/WorkSpace/3HTML Forms/ul&ol.html",
+		"/C/Users/Pinkal/Desktop/prg1"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hw1.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

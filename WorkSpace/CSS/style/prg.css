@@ -1,0 +1,29 @@
+body{
+	background: blue;
+
+}
+#nm1{
+	color: red;
+	font-size: 72px;
+	font-style: italic;
+}
+#nm2{
+	color: #800000;
+	font-size: 72px;
+	font-style: italic;
+	text-shadow: #FFFF00 10px 5px 10px;
+}
+.p1{
+	font-size: 20px;
+	color: red;
+}
+.p2{
+	font-size: 20px;
+	color: green;
+}
+/*input{
+	background-color: yellow;
+}*/
+#t1,#t2{
+	background-color: yellow
+}

@@ -1,0 +1,30 @@
+
+body{
+	background: yellow;
+}
+.d1{
+	
+	border: 5px solid blue;
+	width: 140px;
+	height: 200px;
+	margin-left: 40px;
+	margin-top: 50px;
+	
+
+}
+.d2{
+	border: 5px dotted red;
+	width: 70px;
+	height: 150px;
+	margin-top: 18px;
+	margin-left: 30px;
+}
+.d3
+{
+	border: 5px solid blue;
+	width: 50px;
+	height: 100px;
+	margin-top: 18px;
+	margin-left: 6px;
+	padding: 5px 0px 1px 5px;
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Angular1</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+	<script src="script/app.js"></script>
+	<link rel="stylesheet" type="text/css" href="style/angular1.css">
+</head>
+<body ng-app="myapp">
+<div ng-controller="myctr">
+<!-- <p>{{users.allProducts}}</p> -->
+<div ng-repeat="x in users.allProducts" id="d1">
+	<p>{{x.productdiscription}}</p>
+	<p>{{x.shippingdetails}}</p>
+	<p>{{x.custmerreviews}}</p>
+	<p>{{x.price}}</p>
+	<p>{{x.imagepath}}</p>
+	<p>{{x.stockavailability}}</p>
+	<p>{{x.noofitems}}</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+body{
+	background:white ;
+	background-color: pink;
+	}
+#nm1{
+	color: red;
+	font-size: 50px;
+	font-style: italic;
+	text-shadow: 10px 5px 15px;
+	background-color: blue;
+}
+#p1{
+	color: red;
+	font-size: 30px;
+	font-style: italic;
+	background color: pink;
+}
+
+a : hovor
+{
+	color: orange;
+}
+img{
+	float: left;
+	margin: 0px 0px 20px 10px;
+	}
+

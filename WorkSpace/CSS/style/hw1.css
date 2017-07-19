@@ -1,0 +1,28 @@
+body
+{
+	background: lightblue;
+}
+#h1{
+	color: blue;
+	font-size: 60px;
+	font-style: italic;
+	text-shadow: 10px 5px 15px;
+	display: run-in;
+	text-align: center;
+}
+#p1,#p2{
+	color: blue;
+	font-size: 20px;
+	font-style: verdana;
+	padding: 10px 10px 10px 10px;
+}
+#t1,#t2{
+	background-color: yellow;
+}
+#b1,#b2{
+	background-color: gray;
+}
+a :hover
+{
+color: grey;
+}
